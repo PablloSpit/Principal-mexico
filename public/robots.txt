@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Nota para publicación: actualiza la URL del Sitemap con tu dominio de producción.
+Sitemap: /sitemap.xml

@@ -1,0 +1,25 @@
+:root {
+  /* Paleta editorial exclusiva */
+  --color-emerald: #0B6856;
+  --color-emerald-rgb: 11, 104, 86;
+  --color-emerald-deep: #08483B;
+  --color-emerald-soft: #EAF3EF;
+  --color-gold: #C6A15B;
+  --color-cream: #FAF8F3;
+  --color-white: #FFFFFF;
+  --color-text-primary: #202A26;
+  --color-text-secondary: #626C67;
+  --color-border: #DCE5E0;
+
+  /* Tipografía */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Manrope', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Ritmo y contenedores (reutilizable en futuras páginas del embudo) */
+  --container-max: 1280px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --transition-fast: 180ms cubic-bezier(0.16, 1, 0.3, 1);
+  --transition-base: 260ms cubic-bezier(0.16, 1, 0.3, 1);
+}

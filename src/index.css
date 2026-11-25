@@ -1,0 +1,110 @@
+@import "tailwindcss";
+@import "./styles/tokens.css";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    color: var(--color-text-primary);
+    background-color: var(--color-cream);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: clip;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--color-white);
+    color: var(--color-text-primary);
+    font-family: var(--font-sans);
+    line-height: 1.6;
+    overflow-x: clip;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  button, a {
+    cursor: pointer;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-emerald);
+    outline-offset: 2px;
+  }
+}
+
+/* Patrón visual Omnifood: círculos concéntricos en pasos Z-pattern */
+.omnifood-step-visual {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  isolation: isolate;
+}
+
+.omnifood-step-visual::before,
+.omnifood-step-visual::after {
+  content: "";
+  display: block;
+  border-radius: 9999px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+.omnifood-step-visual::before {
+  width: 68%;
+  padding-bottom: 68%;
+  background-color: #EAF3EF;
+  z-index: -2;
+}
+
+.omnifood-step-visual::after {
+  width: 52%;
+  padding-bottom: 52%;
+  background-color: #D7E8E0;
+  z-index: -1;
+}
+
+/* Listón diagonal Omnifood adaptado en tono dorado oficial */
+.omnifood-plan-ribbon::after {
+  content: "Edición México";
+  position: absolute;
+  top: 28px;
+  right: -54px;
+  text-transform: uppercase;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: #202A26;
+  background-color: #C6A15B;
+  padding: 6px 56px;
+  transform: rotate(45deg);
+  white-space: nowrap;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.safe-bottom-pad {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

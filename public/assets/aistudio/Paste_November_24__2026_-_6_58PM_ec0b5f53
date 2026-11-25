@@ -1,0 +1,953 @@
+DESENVOLVIMENTO DE LANDING PAGE PREMIUM — NUTRIÇÃO E ALIMENTAÇÃO SAUDÁVEL
+
+Atue como um desenvolvedor front-end sênior, especialista em UI/UX Design, direção de arte, branding, copywriting de resposta direta, CRO, SEO, acessibilidade, performance web e desenvolvimento de páginas comerciais de alta conversão.
+
+Desenvolva uma página de vendas completa, funcional e pronta para publicação. Não entregue somente um protótipo, apresentação ou descrição do projeto. Implemente efetivamente todas as funcionalidades solicitadas.
+
+1. INFORMAÇÕES DO PROJETO
+
+- Mercado: México.
+- Idioma: espanhol mexicano nativo (es-MX).
+- Nicho: nutrição, alimentação saudável e gerenciamento de peso.
+- Público: adultos interessados em melhorar seus hábitos alimentares.
+- Produto digital: e-book em PDF.
+- Nome: Plan de Nutrición y Pérdida de Peso Saludable en 30 Días.
+- Preço comercial: US$ 29.90.
+- Pagamento: único, sem assinatura recorrente.
+- Plataforma de checkout: Cakto.
+- URL do checkout: configurar posteriormente.
+- Objetivo principal: converter visitantes em compradores.
+- Origem dos visitantes: tráfego pago, redes sociais e campanhas de marketing digital.
+
+Apresente também o preço em pesos mexicanos (MXN), mediante configuração comercial validada. Não invente taxas de câmbio, impostos ou valores finais.
+
+Todo conteúdo apresentado ao consumidor deve estar em espanhol mexicano natural, incluindo menus, botões, mensagens de erro, políticas, notificações, rodapé e elementos de acessibilidade.
+
+Não utilize expressões típicas do espanhol da Espanha.
+
+2. DIREÇÃO VISUAL E IDENTIDADE DA MARCA
+
+A página deve possuir uma identidade editorial premium, inspirada em marcas profissionais de nutrição, gastronomia saudável e bem-estar.
+
+Utilize exclusivamente a seguinte paleta:
+
+- Verde esmeralda principal: #0B6856 — RGB(11, 104, 86).
+- Verde profundo: #08483B.
+- Verde suave: #EAF3EF.
+- Dourado sofisticado: #C6A15B.
+- Creme natural: #FAF8F3.
+- Branco: #FFFFFF.
+- Texto principal: #202A26.
+- Texto secundário: #626C67.
+- Bordas: #DCE5E0.
+
+O verde esmeralda deverá ser utilizado nos principais botões de conversão.
+
+O dourado deverá ser utilizado com moderação em detalhes editoriais, divisores e elementos de destaque.
+
+Utilize fundos claros, seções alternadas, espaços livres, fotografias gastronômicas profissionais e contraste equilibrado.
+
+Não utilize cores aleatórias.
+
+Tipografia
+
+- Títulos: Playfair Display.
+- Textos, botões e componentes: Manrope.
+- Hierarquia tipográfica consistente.
+- Títulos expressivos, sem exageros.
+- Textos confortáveis para leitura em dispositivos móveis.
+- Evitar parágrafos excessivamente longos.
+- Carregar apenas os pesos tipográficos necessários.
+
+Restrições visuais obrigatórias
+
+- Não utilizar emojis.
+- Não utilizar ícones genéricos.
+- Não utilizar elementos decorativos sem função.
+- Não utilizar excesso de cards.
+- Não utilizar gradientes chamativos.
+- Não utilizar glassmorphism.
+- Não utilizar estética futurista.
+- Não utilizar animações exageradas.
+- Não utilizar sombras excessivas.
+- Não utilizar layouts repetitivos típicos de páginas geradas por IA.
+- Não utilizar desenhos infantis ou ilustrações incompatíveis com o nicho.
+- Não utilizar fotografias artificiais com deformações.
+- Não utilizar imagens com textos ilegíveis.
+- Não utilizar selos de segurança ou certificações inventadas.
+
+Quando necessário, crie elementos gráficos vetoriais personalizados em SVG, com identidade visual consistente e finalidade clara.
+
+O resultado deve parecer desenvolvido por uma agência especializada em marcas de nutrição e infoprodutos premium.
+
+3. IMAGENS E DIREÇÃO FOTOGRÁFICA
+
+Utilize a capa original do e-book quando disponibilizada.
+
+Não redesenhe, modifique ou substitua a identidade original da capa sem autorização.
+
+Produza um mockup profissional do e-book, preservando:
+
+- Tipografia original.
+- Paleta verde e dourada.
+- Textos originais.
+- Proporções.
+- Identidade editorial.
+
+Utilize fotografias gastronômicas realistas com:
+
+- Ingredientes comuns no México.
+- Aguacate.
+- Frijoles.
+- Tortillas de maíz.
+- Verduras frescas.
+- Frutas.
+- Proteínas variadas.
+- Refeições equilibradas.
+- Utensílios naturais.
+- Iluminação editorial suave.
+- Fundos neutros.
+
+As imagens devem transmitir praticidade, qualidade, frescor e uma rotina alimentar realista.
+
+Utilize apenas imagens originais, geradas para o projeto ou devidamente licenciadas.
+
+Não utilize marcas de terceiros sem autorização.
+
+Caso não seja possível gerar imagens reais no ambiente de desenvolvimento, prepare os espaços e arquivos correspondentes para substituição posterior. Não simule imagens inexistentes nem utilize links quebrados.
+
+4. COPYWRITING E ESTRATÉGIA COMERCIAL
+
+Construa a narrativa utilizando princípios de AIDA e PAS, sem mencionar esses métodos ao visitante.
+
+A comunicação deve ser:
+
+- Persuasiva.
+- Humana.
+- Natural.
+- Emocionalmente equilibrada.
+- Objetiva.
+- Específica.
+- Comercial.
+- Culturalmente adequada ao México.
+- Orientada à tomada de decisão.
+
+Venda praticidade, organização alimentar, variedade e desenvolvimento de hábitos sustentáveis, não apenas um arquivo PDF.
+
+Não utilize promessas de emagrecimento garantido, quantidades específicas de peso perdido, resultados milagrosos ou afirmações médicas sem comprovação.
+
+Não explore inseguranças corporais ou sentimentos de vergonha.
+
+Não invente depoimentos, especialistas, credenciais profissionais, estudos científicos, avaliações, quantidade de compradores ou números de vendas.
+
+5. ESTRUTURA COMPLETA DA PÁGINA
+
+SEÇÃO 01 — HEADER
+
+Crie um cabeçalho minimalista e elegante.
+
+Elementos:
+
+- Identidade visual da marca.
+- Navegação por âncoras.
+- Botão de compra discreto.
+- Menu mobile funcional.
+
+Links:
+
+- El programa
+- Qué incluye
+- Preguntas frecuentes
+
+Botão:
+
+“Comenzar ahora”
+
+Não prejudicar o foco comercial com menus excessivos.
+
+SEÇÃO 02 — HERO PRINCIPAL
+
+No desktop, utilize uma composição editorial dividida entre copy e mockup do produto.
+
+No celular, reorganize os elementos verticalmente, garantindo que título, proposta comercial e botão principal sejam facilmente identificados.
+
+Texto introdutório:
+
+“30 días para construir mejores hábitos”
+
+Headline:
+
+“Comer saludable no tiene que ser complicado.”
+
+Subheadline:
+
+“Descubre un plan de alimentación de 30 días diseñado para ayudarte a organizar tus comidas, disfrutar recetas prácticas y construir hábitos saludables a tu propio ritmo.”
+
+Complemento:
+
+“Una guía digital para llevar una alimentación más organizada, equilibrada y compatible con tu vida diaria.”
+
+Botão principal:
+
+“QUIERO COMENZAR MIS 30 DÍAS”
+
+Microcopy:
+
+“Producto digital · Pago único”
+
+Apresente o mockup do e-book em destaque, acompanhado de uma composição gastronômica premium.
+
+SEÇÃO 03 — IDENTIFICAÇÃO COM O PÚBLICO
+
+Título:
+
+“Una alimentación saludable empieza con pequeños cambios.”
+
+Desenvolva uma narrativa sobre dificuldades comuns:
+
+- Não saber o que preparar diariamente.
+- Falta de organização das refeições.
+- Pouco tempo para cozinhar.
+- Dificuldade para manter uma rotina alimentar variada.
+- Excesso de informações contraditórias sobre alimentação.
+
+Finalize com:
+
+“No necesitas hacerlo todo perfecto. Necesitas una forma más práctica de empezar.”
+
+Utilize uma composição visual editorial, evitando listas extensas de cards.
+
+SEÇÃO 04 — APRESENTAÇÃO DA SOLUÇÃO
+
+Título:
+
+“Un plan. 30 días. Una nueva forma de organizar tu alimentación.”
+
+Apresente o produto pelo nome completo:
+
+“Plan de Nutrición y Pérdida de Peso Saludable en 30 Días”
+
+Texto:
+
+“Una guía digital creada para acompañarte durante 30 días y ayudarte a tomar decisiones alimentarias más conscientes, con ideas prácticas para tu día a día.”
+
+Utilize mockups reais do produto e exemplos de páginas internas, quando disponibilizados.
+
+Não invente páginas ou conteúdos que não estejam presentes no PDF original.
+
+SEÇÃO 05 — O QUE O CONSUMIDOR RECEBE
+
+Título:
+
+“Todo lo que necesitas para dar el primer paso”
+
+Apresente os conteúdos efetivamente existentes no e-book.
+
+Organize visualmente informações como:
+
+- Planejamento alimentar de 30 dias.
+- Menus práticos.
+- Receitas saudáveis.
+- Organização das refeições.
+- Orientações para hábitos alimentares equilibrados.
+
+Antes de publicar, confira essas informações com o conteúdo real do e-book.
+
+Não inclua materiais, bônus, cardápios, listas de compras ou ferramentas que não estejam efetivamente disponíveis no produto.
+
+Cada benefício deve possuir descrição breve e comercial.
+
+SEÇÃO 06 — EXPERIÊNCIA COM O PRODUTO
+
+Título:
+
+“Así de sencillo puede ser comenzar”
+
+Apresente três etapas com numeração editorial personalizada:
+
+01 — Adquiere tu guía digital.
+
+02 — Consulta el plan y organiza tus comidas.
+
+03 — Avanza durante 30 días a tu propio ritmo.
+
+Explique o funcionamento sem criar dificuldades desnecessárias ou prometer resultados específicos.
+
+SEÇÃO 07 — BENEFÍCIOS
+
+Título:
+
+“Más organización. Menos improvisación.”
+
+Apresente benefícios relacionados à proposta real do produto:
+
+- Organizar refeições com mais facilidade.
+- Descobrir opções alimentares variadas.
+- Reduzir a indecisão sobre o que preparar.
+- Construir uma rotina alimentar mais consciente.
+- Desenvolver hábitos sustentáveis.
+
+Não apresentar benefícios como resultados garantidos.
+
+A seção deverá utilizar fotografias e elementos tipográficos, não uma grade genérica de ícones.
+
+SEÇÃO 08 — VISUALIZAÇÃO DO E-BOOK
+
+Título:
+
+“Conoce tu próxima guía de alimentación”
+
+Crie uma galeria elegante contendo:
+
+- Capa original.
+- Mockup frontal.
+- Mockup em tablet.
+- Mockup em smartphone.
+- Páginas internas reais, quando fornecidas.
+
+Implemente ampliação de imagens mediante interação do usuário.
+
+A galeria deverá funcionar por toque no celular, teclado no desktop e navegação acessível.
+
+Não utilize imagens de páginas fictícias.
+
+SEÇÃO 09 — PARA QUEM É O PRODUTO
+
+Título:
+
+“¿Es este plan para ti?”
+
+Explique que o produto foi desenvolvido para adultos que desejam:
+
+- Melhorar sua organização alimentar.
+- Encontrar novas ideias de refeições.
+- Construir hábitos cotidianos mais equilibrados.
+- Consultar orientações alimentares de caráter educativo.
+
+Esclareça que o material não substitui acompanhamento médico ou nutricional individualizado.
+
+Pessoas com condições médicas, necessidades nutricionais específicas, gestantes, lactantes ou histórico de transtornos alimentares devem consultar um profissional de saúde antes de seguir mudanças alimentares.
+
+SEÇÃO 10 — OFERTA PRINCIPAL
+
+Crie uma área de oferta premium com fundo verde profundo, detalhes dourados e composição visual sofisticada.
+
+Título:
+
+“Tu próximo paso hacia una alimentación más consciente.”
+
+Produto:
+
+“Plan de Nutrición y Pérdida de Peso Saludable en 30 Días”
+
+Preço:
+
+US$ 29.90
+
+Exibir também o preço total em MXN conforme configuração comercial validada.
+
+Texto:
+
+“Una sola compra para comenzar tu plan de 30 días.”
+
+Botão:
+
+“QUIERO ACCEDER A MI PLAN”
+
+Informações complementares:
+
+- Produto digital em PDF.
+- Pagamento único.
+- Sem assinatura recorrente.
+- Entrega digital conforme condições reais da plataforma.
+- Acesso conforme as regras comerciais efetivas do produto.
+
+Não utilizar preços riscados fictícios.
+
+Não utilizar descontos inexistentes.
+
+Não utilizar contadores regressivos falsos.
+
+Não utilizar escassez artificial.
+
+Não adicionar os outros produtos do funil nesta oferta.
+
+Os order bumps serão apresentados exclusivamente no checkout da Cakto.
+
+SEÇÃO 11 — PERGUNTAS FREQUENTES
+
+Crie um accordion funcional, elegante e acessível.
+
+Perguntas:
+
+- ¿Qué incluye el plan de 30 días?
+- ¿En qué formato recibiré el producto?
+- ¿Necesito experiencia previa en nutrición?
+- ¿Puedo consultar el material desde mi celular?
+- ¿El pago es único o mensual?
+- ¿Este plan garantiza la pérdida de peso?
+- ¿Cómo recibiré mi compra?
+- ¿Cómo puedo contactar al equipo de soporte?
+- ¿Cuáles son las condiciones de cancelación y reembolso?
+
+As respostas devem corresponder às condições reais do produto.
+
+Não invente garantias comerciais, prazos ou políticas de reembolso.
+
+SEÇÃO 12 — CTA FINAL
+
+Título:
+
+“Los grandes cambios comienzan con una decisión.”
+
+Texto:
+
+“Empieza a construir una rutina de alimentación más práctica, organizada y consciente.”
+
+Botão:
+
+“COMENZAR MI PLAN DE 30 DÍAS”
+
+Utilize composição fotográfica elegante, sem excesso de elementos visuais.
+
+SEÇÃO 13 — RODAPÉ
+
+Crie um rodapé completo, profissional e discreto.
+
+Inclua:
+
+- Identidade da marca.
+- Nome ou razão social do responsável.
+- Informações de contato verificáveis.
+- Domicílio comercial.
+- Identificação fiscal aplicável.
+- E-mail de suporte.
+- Aviso de privacidad.
+- Términos y condiciones.
+- Política de cookies.
+- Política de cancelación y reembolso.
+- Aviso legal y de salud.
+- Preferencias de privacidad.
+- Direitos autorais.
+
+Utilize o ano atual automaticamente no copyright.
+
+Não invente informações empresariais.
+
+6. INTEGRAÇÃO COM A CAKTO
+
+Crie uma configuração centralizada para todas as informações comerciais.
+
+Utilize variáveis semelhantes a:
+
+export const siteConfig = {
+  brandName: "",
+  legalName: "",
+  businessAddress: "",
+  taxId: "",
+  supportEmail: "",
+  supportPhone: "",
+  productName:
+    "Plan de Nutrición y Pérdida de Peso Saludable en 30 Días",
+  locale: "es-MX",
+  targetCountry: "MX",
+  priceUSD: 29.90,
+  priceMXN: null,
+  checkoutUrl: "",
+  deliveryTerms: "",
+  refundTerms: "",
+  metaPixelId: "",
+  googleAnalyticsId: "",
+  exitOfferEnabled: false,
+  exitOfferCheckoutUrl: ""
+};
+
+Todos os botões de compra devem utilizar exclusivamente a variável checkoutUrl.
+
+Não espalhar URLs de pagamento diretamente pelos componentes.
+
+Preservar, mediante configuração segura, parâmetros de atribuição reconhecidos pelo checkout, incluindo:
+
+- utm_source
+- utm_medium
+- utm_campaign
+- utm_content
+- utm_term
+- identificadores de anúncios compatíveis.
+
+Não encaminhar informações pessoais ou sensíveis por parâmetros de URL.
+
+Não criar checkout próprio.
+
+Não solicitar dados bancários.
+
+Não solicitar números de cartão de crédito.
+
+A Cakto será responsável pelo processamento do pagamento.
+
+Enquanto o checkout não estiver configurado, sinalizar claramente a pendência no ambiente de desenvolvimento.
+
+Não criar redirecionamentos fictícios.
+
+7. EXIT POPUP
+
+Prepare um componente de Exit Popup opcional, inicialmente desativado.
+
+Quando ativado, deverá oferecer 10% de desconto exclusivamente sobre o produto principal, mediante cupom ou URL promocional previamente configurados e validados na Cakto.
+
+Preço original: US$ 29.90.
+
+Preço com desconto: US$ 26.91.
+
+Título:
+
+“¿Antes de irte?”
+
+Texto:
+
+“Si todavía estás pensando en comenzar, puedes aprovechar un 10% de descuento en tu plan de alimentación de 30 días.”
+
+Botão:
+
+“QUIERO APROVECHAR MI DESCUENTO”
+
+Rejeição:
+
+“No, gracias.”
+
+Regras:
+
+- Exibir apenas uma vez por sessão.
+- No desktop, utilizar intenção de saída pelo movimento do cursor.
+- No celular, utilizar uma interação não invasiva baseada em inatividade ou comportamento de navegação.
+- Não manipular o histórico do navegador.
+- Não impedir que o visitante saia.
+- Não bloquear a navegação.
+- Permitir fechamento imediato.
+- Não utilizar urgência artificial.
+- Não apresentar a oferta sem desconto efetivamente configurado.
+- Evitar duplicidade com o Exit Popup nativo do checkout Cakto.
+
+O componente deve respeitar acessibilidade, responsividade e preferências de privacidade.
+
+8. ADEQUAÇÃO LEGAL AO MÉXICO
+
+Prepare páginas jurídicas completas em espanhol mexicano, considerando as versões vigentes das normas aplicáveis, incluindo:
+
+- Ley Federal de Protección al Consumidor.
+- Disposições relativas ao comércio eletrônico.
+- Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
+- Regulamentos e disposições complementares aplicáveis.
+- Orientações da PROFECO.
+- Disposições de publicidade e saúde aplicáveis à natureza do produto.
+- Legislação mexicana de direitos autorais.
+
+Não inventar artigos de leis.
+
+Não declarar que o negócio possui certificação governamental.
+
+Não declarar aprovação da PROFECO ou COFEPRIS.
+
+Considerar a venda internacional de produtos digitais ao consumidor mexicano, sem presumir que a empresa possua estabelecimento ou registro fiscal no México.
+
+Crie as seguintes páginas independentes:
+
+/aviso-de-privacidad
+
+Incluir:
+
+- Identificação e domicílio do responsável pelo tratamento.
+- Dados pessoais efetivamente tratados.
+- Finalidades primárias.
+- Finalidades secundárias.
+- Bases e modalidades de consentimento aplicáveis.
+- Compartilhamento e transferências de dados.
+- Processamento por terceiros, incluindo a Cakto, conforme as responsabilidades reais.
+- Medidas de segurança.
+- Critérios de conservação de dados.
+- Direitos ARCO: acceso, rectificación, cancelación y oposición.
+- Procedimentos para exercício dos direitos.
+- Revogação do consentimento.
+- Limitação do uso e divulgação.
+- Informações sobre tecnologias de rastreamento.
+- Comunicação de alterações.
+- Data de atualização.
+- Contato responsável pela privacidade.
+
+Não coletar dados médicos ou informações sensíveis desnecessárias.
+
+/terminos-y-condiciones
+
+Incluir:
+
+- Identificação do fornecedor.
+- Objeto da contratação.
+- Descrição do produto digital.
+- Requisitos de compra.
+- Preço, moeda, impostos e encargos aplicáveis.
+- Formas de pagamento efetivamente disponíveis.
+- Condições de entrega e acesso.
+- Licença de uso pessoal.
+- Propriedade intelectual.
+- Restrições à revenda ou redistribuição não autorizada.
+- Procedimentos de suporte.
+- Condições de cancelamento.
+- Resolução de conflitos.
+- Direitos obrigatórios do consumidor.
+- Legislação aplicável, sem restringir direitos legalmente assegurados.
+
+/politica-de-cookies
+
+Incluir:
+
+- Definição de cookies.
+- Cookies necessários.
+- Cookies de preferências.
+- Cookies analíticos.
+- Cookies publicitários.
+- Tecnologias de terceiros efetivamente utilizadas.
+- Finalidades.
+- Períodos de conservação.
+- Gerenciamento de consentimento.
+- Alteração e revogação das preferências.
+
+Não listar serviços que não estejam implementados.
+
+/cancelaciones-y-reembolsos
+
+Incluir:
+
+- Condições reais de cancelamento.
+- Direitos de revogação aplicáveis.
+- Procedimento para solicitação de reembolso.
+- Informações necessárias para identificação da compra.
+- Canais de suporte.
+- Procedimentos relacionados a falhas na entrega digital.
+- Prazos aplicáveis, após validação jurídica e comercial.
+- Direitos obrigatórios do consumidor mexicano.
+
+Não estabelecer automaticamente uma política de ausência de reembolso para produtos digitais.
+
+Não inventar prazo de garantia de 7, 15 ou 30 dias.
+
+/aviso-legal-y-salud
+
+Incluir aviso com o seguinte sentido:
+
+“El contenido de este producto tiene fines educativos e informativos. No sustituye una consulta médica, nutricional ni otro tipo de atención profesional individualizada. Los resultados pueden variar según las circunstancias de cada persona.”
+
+Esclarecer:
+
+- Não se trata de diagnóstico.
+- Não substitui tratamento profissional.
+- Não garante emagrecimento.
+- Não constitui prescrição médica.
+- Necessidades alimentares individuais devem ser avaliadas por profissionais qualificados.
+
+Todas as páginas jurídicas devem possuir conteúdo completo, navegação funcional, identidade visual consistente e botão para retornar à página principal.
+
+Utilize campos de configuração para dados jurídicos ainda não fornecidos.
+
+Identifique todas as informações pendentes antes da publicação.
+
+Não apresente textos jurídicos gerados automaticamente como juridicamente certificados.
+
+9. BANNER DE COOKIES E CONSENTIMENTO
+
+Crie um banner de cookies minimalista, elegante e totalmente funcional.
+
+Texto:
+
+“Utilizamos cookies para ofrecerte una mejor experiencia y, con tu autorización, analizar el rendimiento de nuestro sitio y personalizar la publicidad. Puedes configurar tus preferencias en cualquier momento.”
+
+Botões:
+
+- “Aceptar todas”
+- “Rechazar opcionales”
+- “Configurar”
+
+Implemente:
+
+- Painel de gerenciamento de preferências.
+- Categorias independentes.
+- Cookies necessários sempre ativos.
+- Cookies opcionais inicialmente desativados.
+- Armazenamento da escolha.
+- Versionamento do consentimento.
+- Possibilidade de alterar preferências pelo rodapé.
+- Bloqueio de rastreadores opcionais até autorização.
+- Acessibilidade por teclado.
+- Contraste adequado.
+
+Não dificultar a rejeição de cookies.
+
+Não utilizar padrões manipulativos para obter consentimento.
+
+10. RESPONSIVIDADE COMPLETA
+
+A página deverá ser desenvolvida utilizando abordagem mobile-first.
+
+Testar nas seguintes larguras:
+
+- 320px.
+- 360px.
+- 375px.
+- 390px.
+- 414px.
+- 430px.
+- 768px.
+- 1024px.
+- 1280px.
+- 1440px.
+- 1920px.
+
+Requisitos:
+
+- Layout fluido e expansivo.
+- Nenhuma rolagem horizontal indevida.
+- Nenhum elemento cortado.
+- Nenhum texto sobreposto.
+- Nenhum botão fora da tela.
+- Nenhuma imagem deformada.
+- Nenhum espaço vazio excessivo.
+- Nenhuma quebra de layout.
+- Textos com quebra natural e legível.
+- Áreas clicáveis de pelo menos 44px.
+- Imagens proporcionais.
+- Sistema de espaçamento consistente.
+- Adaptação real de composição entre desktop, tablet e smartphone.
+
+No desktop, utilizar seções expansivas com conteúdo centralizado e largura máxima aproximada de 1200px a 1320px.
+
+No celular, utilizar largura disponível com margens laterais adequadas.
+
+Criar um botão de compra fixo na parte inferior do celular, exibido após o visitante ultrapassar a seção principal.
+
+O botão fixo não deverá sobrepor conteúdo, avisos de privacidade ou links jurídicos.
+
+Respeitar safe areas dos dispositivos móveis.
+
+11. ANIMAÇÕES E INTERAÇÕES
+
+Utilizar animações discretas e profissionais:
+
+- Fade-in suave.
+- Transições de opacidade.
+- Pequenos deslocamentos verticais.
+- Hover elegante nos botões.
+- Accordion animado.
+- Transições naturais entre estados.
+
+Evitar animações excessivas, efeitos de partículas, objetos flutuantes ou excesso de movimento.
+
+Respeitar prefers-reduced-motion.
+
+Não depender de animações para exibir conteúdo essencial.
+
+12. PERFORMANCE WEB
+
+Priorizar carregamento rápido em redes móveis.
+
+Implemente:
+
+- Imagens WebP ou AVIF.
+- Imagens responsivas com srcset.
+- Lazy loading abaixo da primeira dobra.
+- Carregamento prioritário da imagem principal.
+- Dimensões reservadas para evitar mudanças de layout.
+- Minificação de CSS e JavaScript.
+- Divisão de código quando necessária.
+- Otimização das fontes.
+- Carregamento condicional de scripts.
+- Eliminação de dependências desnecessárias.
+
+Metas técnicas, sujeitas a testes reais:
+
+- Lighthouse Performance: acima de 90.
+- Lighthouse Accessibility: acima de 95.
+- LCP: até 2,5 segundos.
+- CLS: até 0,1.
+- INP: até 200 milissegundos.
+
+Não declarar que essas métricas foram alcançadas sem realizar testes.
+
+13. SEO E COMPARTILHAMENTO
+
+Configurar:
+
+- HTML semântico.
+- Atributo lang="es-MX".
+- Meta title.
+- Meta description.
+- Canonical configurável.
+- Open Graph.
+- Twitter Cards.
+- Favicon personalizado.
+- Sitemap.xml.
+- Robots.txt.
+- Imagem de compartilhamento de 1200 × 630px.
+- Dados estruturados Schema.org Product e Offer.
+
+Título SEO:
+
+“Plan de Nutrición Saludable de 30 Días | Guía Digital”
+
+Descrição SEO:
+
+“Organiza tu alimentación con un plan de 30 días, ideas de comidas y hábitos saludables. Descubre una forma práctica de comenzar.”
+
+Não inserir avaliações fictícias nos dados estruturados.
+
+Não publicar informações comerciais incompletas nos metadados.
+
+Manter ambientes de desenvolvimento e homologação fora da indexação.
+
+14. RASTREAMENTO DE CAMPANHAS
+
+Prepare integração opcional para:
+
+- Meta Pixel.
+- Google Analytics 4.
+- Google Ads.
+- Google Tag Manager.
+
+Centralizar identificadores em configurações.
+
+Preparar os eventos aplicáveis:
+
+- PageView.
+- ViewContent.
+- CTA_Click.
+- CheckoutClick.
+- ExitOfferShown.
+- ExitOfferAccepted.
+
+O evento InitiateCheckout deve representar uma ação efetiva de início do checkout.
+
+O evento Purchase deve ser enviado somente após confirmação real do pagamento, mediante integração confiável com a Cakto.
+
+Não disparar Purchase ao clicar no botão de compra.
+
+Evitar eventos duplicados.
+
+Respeitar consentimento e políticas das plataformas de publicidade.
+
+Não enviar informações sensíveis relacionadas a saúde, peso, condições médicas ou características pessoais para plataformas de anúncios.
+
+Utilizar nomenclaturas e parâmetros permitidos pelas plataformas.
+
+15. ARQUITETURA TÉCNICA
+
+Utilize:
+
+- React.
+- TypeScript.
+- CSS responsivo ou Tailwind CSS.
+- Componentes reutilizáveis.
+- Estrutura de código organizada.
+- Variáveis CSS para identidade visual.
+- Rotas independentes para documentos legais.
+- Configuração comercial centralizada.
+
+Organize o projeto em estruturas equivalentes a:
+
+src/
+  assets/
+  components/
+  sections/
+  pages/
+  config/
+  hooks/
+  lib/
+  styles/
+  types/
+public/
+  images/
+  fonts/
+  favicon/
+
+Crie componentes independentes para:
+
+- Header.
+- Hero.
+- ProductPresentation.
+- ProductBenefits.
+- ProductGallery.
+- OfferSection.
+- FAQ.
+- FinalCTA.
+- MobileStickyCTA.
+- CookieConsent.
+- CookiePreferences.
+- ExitPopup.
+- Footer.
+- LegalPage.
+
+Não crie banco de dados, cadastro, login, chatbot ou inteligência artificial dentro da página.
+
+Não utilize APIs de IA durante o acesso dos consumidores.
+
+Não exponha chaves privadas no frontend.
+
+O projeto deverá funcionar como uma página comercial leve e independente.
+
+16. PREPARAÇÃO PARA AS PRÓXIMAS ETAPAS DO FUNIL
+
+A arquitetura e a identidade visual deverão permitir reutilização futura para:
+
+- Página de Upsell.
+- Página de Downsell.
+- Página de agradecimento.
+
+Compartilhar estilos, tokens visuais, componentes jurídicos e sistema de configuração quando apropriado.
+
+Entretanto, nesta etapa, desenvolver exclusivamente a página de vendas do produto principal e suas páginas jurídicas.
+
+Não criar Upsell ou Downsell agora.
+
+Não incluir ofertas adicionais no produto principal.
+
+Não inserir scripts de cobrança de Upsell nesta landing page.
+
+17. REVISÃO OBRIGATÓRIA
+
+Antes de considerar o desenvolvimento concluído:
+
+- Revisar todo o espanhol mexicano.
+- Verificar erros ortográficos.
+- Verificar consistência da identidade visual.
+- Verificar responsividade em todas as larguras.
+- Verificar funcionamento dos botões.
+- Verificar links jurídicos.
+- Verificar navegação mobile.
+- Verificar acessibilidade.
+- Verificar consentimento de cookies.
+- Verificar rastreamento.
+- Verificar possíveis erros no console.
+- Verificar imagens quebradas.
+- Verificar textos cortados.
+- Verificar espaços inadequados.
+- Verificar ausência de informações inventadas.
+- Verificar consistência do preço.
+- Verificar conteúdo real do produto.
+- Verificar todas as configurações pendentes.
+
+Crie também um README com instruções para edição, configuração da Cakto, inserção das imagens originais, configuração dos preços, rastreamento e publicação.
+
+18. INSTRUÇÃO FINAL DE EXECUÇÃO
+
+Implemente agora a página completa.
+
+Não entregue somente explicações.
+
+Não simplifique as exigências visuais.
+
+Não substitua o design solicitado por templates genéricos.
+
+Não invente informações para preencher lacunas.
+
+O resultado deverá possuir acabamento comercial premium, identidade própria, carregamento rápido, copywriting persuasivo, navegação intuitiva e experiência profissional em qualquer dispositivo.
+
+O consumidor deverá perceber uma marca séria, organizada e confiável.
+
+Ao finalizar, apresente a aplicação funcionando e informe objetivamente quais informações ainda precisam ser fornecidas antes da publicação comercial.
